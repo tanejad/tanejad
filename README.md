@@ -1,4 +1,4 @@
-## 👋 Hello World! 
+## 👋 Hello World! s
 🎓 My Name is Dhruv Taneja, a first-year engineering student at McMaster University.<br>
 
 <br>🤔 I am interested in pursuing a degree in Mechatronics Engineering starting September 2024. My passion for engineering began at a young age as I joined a local VEX Robotics team. Over the next six years, we qualified for the VEX Robotics World Championship from 2015 to 2020. In this period, I brought home two gold medals in 2016 and 2018 and a silver in 2017. This experience only fueled my inspiration for engineering and robotics even more.<br>
