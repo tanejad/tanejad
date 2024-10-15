@@ -1,9 +1,12 @@
 ## 👋 Hello World! 
 🎓 My Name is Dhruv Taneja, a second-year Mechanical Engineering student @ McMaster University.<br>
 
-<br>🤔 I am interested in pursuing a degree in Mechatronics Engineering starting September 2024. My passion for engineering began at a young age as I joined a local VEX Robotics team. Over the next six years, we qualified for the VEX Robotics World Championship from 2015 to 2020. In this period, I brought home two gold medals in 2016 and 2018 and a silver in 2017. This experience only fueled my inspiration for engineering and robotics even more.<br>
+<br>💻 My programming experience spans Python, C++, Java, and Arduino, with projects including a Discord Bot and a Snake Game. I'm constantly learning new tools and techniques in software engineering, aiming to build efficient, innovative solutions.  I love exploring how mechanical systems and coding come together, whether it's building robots in VEX competitions or working on coding projects like data management apps and game development.<br>
 
-<br>🔭 I’m currently working on a **Discord Bot** that can track deadlines and utilize a variety of **APIs** in **Python** <br>
+<br>🔭 I’m currently working on an **Online Reservation and POS System** for local businesses and making restaurants more efficient<br>
+
+## 🌱 Currently Learning
+I'm currently focused on learning **The World Of Web Development utilizing HTML, CSS, JS** and more!
 
 ## 🔧 Languages & Tools
 <a href="#"><img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
@@ -12,11 +15,6 @@
 <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/></a>
 <a href="#"><img align="center" src="https://static-00.iconduck.com/assets.00/jupyter-icon-1748x2048-tdovt1s4.png" width="40" height="40"/></a>
 <a href="https://processing.org/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width="40" height="40"/></a>
-
-
-## 🌱 Currently Learning
-I'm currently focused on learning **The World Of Web Development utilizing HTML, CSS, JS** and more!
-
 
 ## 📫 Get in Touch
 <a href="https://www.linkedin.com/in/taneja-dhruv/" target="blank"><img align="center" src="https://github.com/tanejavipul/tanejavipul/blob/main/Icons/linkedIn.svg" alt="taneja-dhruv/" height="40" width="40" style="margin-left: 13px"/></a>
