@@ -20,3 +20,5 @@ I'm currently focused on learning **The World Of Web Development utilizing HTML,
 <a href="https://www.linkedin.com/in/taneja-dhruv/" target="blank"><img align="center" src="https://github.com/tanejavipul/tanejavipul/blob/main/Icons/linkedIn.svg" alt="taneja-dhruv/" height="40" width="40" style="margin-left: 13px"/></a>
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!🙂
+
+🚧 Reminder this page is still under construction
