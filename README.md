@@ -1,5 +1,5 @@
 ## 👋 Hello World! 
-🎓 My Name is Dhruv Taneja, a first-year engineering student at McMaster University.<br>
+🎓 My Name is Dhruv Taneja, a second-year Mechanical Engineering student @ McMaster University.<br>
 
 <br>🤔 I am interested in pursuing a degree in Mechatronics Engineering starting September 2024. My passion for engineering began at a young age as I joined a local VEX Robotics team. Over the next six years, we qualified for the VEX Robotics World Championship from 2015 to 2020. In this period, I brought home two gold medals in 2016 and 2018 and a silver in 2017. This experience only fueled my inspiration for engineering and robotics even more.<br>
 
@@ -15,12 +15,8 @@
 
 
 ## 🌱 Currently Learning
-I'm currently focused on learning **HTML, CSS, JS** and more!
+I'm currently focused on learning **The World Of Web Development utilizing HTML, CSS, JS** and more!
 
-## 👨‍💻 Projects
-- [Project 1 Name](Link to Project 1): Short description.
-- [Project 2 Name](Link to Project 2): Short description.
-- [Project 3 Name](Link to Project 3): Short description.
 
 ## 📫 Get in Touch
 <a href="https://www.linkedin.com/in/taneja-dhruv/" target="blank"><img align="center" src="https://github.com/tanejavipul/tanejavipul/blob/main/Icons/linkedIn.svg" alt="taneja-dhruv/" height="40" width="40" style="margin-left: 13px"/></a>
