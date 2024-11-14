@@ -6,7 +6,7 @@
 I'm constantly learning new tools and techniques in software engineering, aiming to build efficient, innovative solutions.  
 I love exploring how mechanical systems and coding come together, whether it's building robots in VEX competitions or working on coding projects like data management apps.<br>
 
-<br>🔭 I’m currently working on an **Personal Portfolio Website** using **React, Node.js, HTML, CSS & JS**br>
+<br>🔭 I’m currently working on an **Personal Portfolio Website** using **React, Node.js, HTML, CSS & JS** <br>
 
 ## 🌱 Currently Learning
 I'm currently focused on learning **The World Of Web Development utilizing HTML, CSS, JS** and more!
