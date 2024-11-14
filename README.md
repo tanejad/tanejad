@@ -1,9 +1,12 @@
 ## 👋 Hello World! 
+
 🎓 My Name is Dhruv Taneja, a second-year Mechanical Engineering student @ McMaster University.<br>
 
-<br>💻 My programming experience spans Python, C++, Java, and Arduino, with projects including a Discord Bot and a Snake Game. I'm constantly learning new tools and techniques in software engineering, aiming to build efficient, innovative solutions.  I love exploring how mechanical systems and coding come together, whether it's building robots in VEX competitions or working on coding projects like data management apps and game development.<br>
+<br>💻 My programming experience spans Python, SQL, R, C++, Java, and Arduino, with projects including a Discord Bot, Student Grade Tracker and Snake Game. 
+I'm constantly learning new tools and techniques in software engineering, aiming to build efficient, innovative solutions.  
+I love exploring how mechanical systems and coding come together, whether it's building robots in VEX competitions or working on coding projects like data management apps.<br>
 
-<br>🔭 I’m currently working on an **Online Reservation and POS System** for local businesses and making restaurants more efficient<br>
+<br>🔭 I’m currently working on an **Personal Portfolio Website** using **React, Node.js, HTML, CSS & JS**br>
 
 ## 🌱 Currently Learning
 I'm currently focused on learning **The World Of Web Development utilizing HTML, CSS, JS** and more!
